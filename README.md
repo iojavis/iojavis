@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there! I'm Isaac Javis Otim
 
-<!--
-**iojavis/iojavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor of Applied Information Technology student  
+💻 Web Developer | Aspiring Cloud & Network Engineer  
 
-Here are some ideas to get you started:
+### About Me
+Building Scalable Cloud and Network Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Currently learning Linux, Docker, Kubernetes,
+  networking, and cloud technologies.
+- 🛠️ Working with JavaScript, TypeScript, React,
+  Next.js, and Git.
+- ☁️ Following the Learn to Cloud roadmap.
+- 🎯 Goal: Build, secure, and manage scalable
+  cloud infrastructure.
+
+###  Connect With Me
+
+- GitHub: [@iojavis](https://github.com/iojavis)
+- X: [@iojavis](https://x.com/iojavis)
